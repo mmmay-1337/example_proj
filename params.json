@@ -132,7 +132,6 @@
     "dkuProperties": []
   },
   "name": "version_control",
-  "projectStatus": "Sandbox",
   "metrics": {
     "probes": [],
     "engineConfig": {
@@ -188,11 +187,11 @@
     }
   },
   "versionTag": {
-    "versionNumber": 0,
+    "versionNumber": 1,
     "lastModifiedBy": {
       "login": "admin"
     },
-    "lastModifiedOn": 1657775377621
+    "lastModifiedOn": 1657775452977
   },
   "creationTag": {
     "versionNumber": 0,
@@ -202,7 +201,9 @@
     "lastModifiedOn": 1657774366530
   },
   "shortDesc": "The project *version_control* was created by Administrator on Jul 14th 2022",
-  "tags": [],
+  "tags": [
+    "duplicated"
+  ],
   "customFields": {},
   "checklists": {
     "checklists": [
