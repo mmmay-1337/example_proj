@@ -11,6 +11,8 @@ from dataiku import pandasutils as pdu
 
 example_ds_df = pd.DataFrame(data = pd.date_range(start = '2022-01-25', end = '2022-05-01'))
 
+print("this is a random line")
+print("another line :/")
 
 # entered a few more lines
 
