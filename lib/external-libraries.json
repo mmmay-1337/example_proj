@@ -1,5 +1,16 @@
 {
-  "gitReferences": {},
+  "gitReferences": {
+    "python": {
+      "remote": "https://github.com/mmmay-1337/dss_project",
+      "checkout": "refs/heads/main",
+      "remotePath": "python",
+      "lastHash": "c7f1c59912f93259d538a828df7e14492b9e9930",
+      "conflictingFiles": [],
+      "resolvedFiles": [],
+      "faultyHash": "",
+      "isDirty": false
+    }
+  },
   "pythonPath": [
     "python"
   ],
