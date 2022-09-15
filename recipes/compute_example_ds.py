@@ -21,3 +21,5 @@ example_ds = dataiku.Dataset("example_ds")
 example_ds.write_with_schema(example_ds_df)
 
 print("if you want to, I can be with youuu")
+
+# hello my friend
